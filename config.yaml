@@ -4,3 +4,4 @@ path:
     processed: "../../data/processed/"
     artifact: "../../artifacts/"
     udf: "../../src"
+    raw_wm: "../../data/raw/walmart-recruiting-store-sales-forecasting/"
