@@ -1,6 +1,6 @@
 # walmartsales
 
-Its a timeseries usecase
+It is a timeseries usecase. The ultimate problem is to predict walmart sales for the next (at least) one week using previous week data. However, walmart has multiple branch with different departement in each brand.
 
 ## Setup
 
@@ -38,4 +38,9 @@ jupyter lab
     |--src
 ```
 
+## Reference
 
+* Solution iteration 1
+* Solution iteration 3
+* [dataset source](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
+* [Time series guide](https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775)
